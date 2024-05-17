@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "env2k8s.helloWorld",
-        "title": "Hello World"
+        "command": "env2k8s.parseEnv",
+        "title": "Parse Environ"
       }
     ]
   },
